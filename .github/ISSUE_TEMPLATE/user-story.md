@@ -10,15 +10,15 @@ assignees: ''
 
 #### Scenario:
 ```gherkin
-**As a** *[role]*,  
-**I need** *[function]*,
-**So that** *[benefit]*.
+As a *[role]*,  
+I need *[function]*,
+So that *[benefit]*.
 ```
    
 #### Details and Assumptions:
 ```gherkin
-- [document what you know 1]
-- [document what you know 2]
+- Assumption-1 [document what you know 1]
+- Assumption-2 [document what you know 2]
 ```
    
 #### Acceptance Criteria:
