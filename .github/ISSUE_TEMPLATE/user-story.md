@@ -1,10 +1,10 @@
 ---
 name: User Story
-about: An general explanation of a software feature written from the perspective of
+about: A general explanation of a software feature written from the perspective of
   a stakeholder.
 title: ''
 labels: ''
-assignees: ''
+assignees: LeejoAbraham01
 
 ---
 
